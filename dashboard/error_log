@@ -1,0 +1,45 @@
+[24-May-2020 18:08:23 America/Fortaleza] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home2/felic009/public_html/dashboard/index.php:4) in /home2/felic009/public_html/dashboard/index.php on line 50
+[24-May-2020 18:08:23 America/Fortaleza] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/felic009/public_html/dashboard/index.php:4) in /home2/felic009/public_html/dashboard/index.php on line 50
+[24-May-2020 18:09:22 America/Fortaleza] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home2/felic009/public_html/dashboard/index.php:4) in /home2/felic009/public_html/dashboard/index.php on line 50
+[24-May-2020 18:09:22 America/Fortaleza] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/felic009/public_html/dashboard/index.php:4) in /home2/felic009/public_html/dashboard/index.php on line 50
+[24-May-2020 18:11:01 America/Fortaleza] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/felic009/public_html/dashboard/index.php:1) in /home2/felic009/public_html/dashboard/index.php on line 48
+[24-May-2020 18:12:31 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/felic009/public_html/dashboard/include/painel.php:27) in /home2/felic009/public_html/dashboard/funcionarios.php on line 184
+[24-May-2020 18:13:02 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/felic009/public_html/dashboard/include/painel.php:27) in /home2/felic009/public_html/dashboard/funcionarios.php on line 184
+[24-May-2020 18:13:25 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/felic009/public_html/dashboard/include/painel.php:27) in /home2/felic009/public_html/dashboard/funcionarios.php on line 184
+[25-May-2020 02:09:39 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home2/felic009/public_html/dashboard/visualizar_relatorio_func.php on line 43
+[25-May-2020 02:11:11 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home2/felic009/public_html/dashboard/visualizar_relatorio_func.php on line 43
+[25-May-2020 02:13:03 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/felic009/public_html/dashboard/visualizar_relatorio_func.php on line 51
+[25-May-2020 02:13:03 America/Fortaleza] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/felic009/public_html/dashboard/visualizar_relatorio_func.php on line 55
+[25-May-2020 02:16:43 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home2/felic009/public_html/dashboard/visualizar_relatorio_cliente.php on line 43
+[27-May-2020 17:50:27 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home2/felic009/public_html/dashboard/visualizar_relatorio_cliente.php on line 43
+[30-May-2020 09:41:55 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home2/felic009/public_html/dashboard/visualizar_adm.php on line 51
+[30-May-2020 09:57:39 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home2/felic009/public_html/dashboard/relatorios_clientes.php on line 187
+[30-May-2020 10:08:10 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home2/felic009/public_html/dashboard/visualizar_relatorio_cliente.php on line 43
+[30-May-2020 10:09:18 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home2/felic009/public_html/dashboard/visualizar_relatorio_cliente.php on line 43
+[04-Jun-2020 08:35:57 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/felic009/public_html/dashboard/cadastro_servico.php on line 59
+[04-Jun-2020 08:35:57 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/felic009/public_html/dashboard/cadastro_servico.php on line 59
+[04-Jun-2020 08:36:24 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/felic009/public_html/dashboard/cadastro_servico.php on line 59
+[04-Jun-2020 08:36:24 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/felic009/public_html/dashboard/cadastro_servico.php on line 59
+[07-Jun-2020 19:49:11 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home2/felic009/public_html/dashboard/include/Rrelatorio_func.php on line 27
+[07-Jun-2020 19:49:33 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home2/felic009/public_html/dashboard/include/Rrelatorio_func.php on line 27
+[17-Jun-2020 11:21:11 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home2/felic009/public_html/dashboard/include/Rrelatorio_cliente.php on line 23
+[17-Jun-2020 11:21:40 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home2/felic009/public_html/dashboard/include/Rrelatorio_cliente.php on line 23
+[17-Jun-2020 11:29:29 America/Fortaleza] PHP Warning:  mysqli_query(): Empty query in /home2/felic009/public_html/dashboard/include/Rrelatorio_func.php on line 27
+[17-Jun-2020 11:29:29 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home2/felic009/public_html/dashboard/include/Rrelatorio_func.php on line 27
+[07-Jul-2020 20:32:11 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home2/felic009/public_html/dashboard/visualizar_relatorio_cliente.php on line 43
+[07-Jul-2020 23:18:11 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/felic009/public_html/dashboard/include/painel.php:27) in /home2/felic009/public_html/dashboard/funcionarios.php on line 184
+[07-Jul-2020 23:18:18 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/felic009/public_html/dashboard/include/painel.php:27) in /home2/felic009/public_html/dashboard/funcionarios.php on line 184
+[08-Jul-2020 11:01:41 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/felic009/public_html/dashboard/include/Rpastas.php on line 17
+[08-Jul-2020 11:01:41 America/Fortaleza] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/felic009/public_html/dashboard/include/Rpastas.php on line 19
+[11-Jul-2020 10:39:58 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/felic009/public_html/dashboard/include/painel.php:27) in /home2/felic009/public_html/dashboard/funcionarios.php on line 184
+[03-Aug-2020 18:40:05 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home2/felic009/public_html/dashboard/visualizar_relatorio_func.php on line 45
+[03-Aug-2020 18:51:30 America/Fortaleza] PHP Warning:  Illegal string offset 'ind_visualizado' in /home2/felic009/public_html/dashboard/relatorios_func.php on line 167
+[03-Aug-2020 18:52:35 America/Fortaleza] PHP Warning:  Illegal string offset 'ind_visualizado' in /home2/felic009/public_html/dashboard/relatorios_func.php on line 169
+[06-Aug-2020 09:59:15 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function now() in /home2/felic009/public_html/dashboard/cadastro_servico.php:97
+Stack trace:
+#0 {main}
+  thrown in /home2/felic009/public_html/dashboard/cadastro_servico.php on line 97
+[06-Aug-2020 09:59:39 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function now() in /home2/felic009/public_html/dashboard/cadastro_servico.php:97
+Stack trace:
+#0 {main}
+  thrown in /home2/felic009/public_html/dashboard/cadastro_servico.php on line 97

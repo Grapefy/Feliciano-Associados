@@ -1,0 +1,44 @@
+@media (min-width:320px) and (max-width:1077px){
+    .btn{
+        margin-top: -0.4%;
+        padding: 3.3%;
+        border-radius: 5px;
+        width: 20%;
+    }
+}
+
+@media (min-width:1078px) and (max-width:1300px) {
+    .btn{
+        margin-top: -0.4%;
+        padding: 3.1999%;
+        border-radius: 5px;
+        width: 16.8%;
+    }
+}
+
+@media (min-width:1301px) and (max-width:1441px){
+    .btn {
+        margin-top: -0.4%;
+        padding: 3.1999%;
+        border-radius: 5px;
+        width: 16.8%;
+    }
+}
+
+@media (min-width:1442px) and (max-width:1777px) {
+    .btn {
+        margin-top: -0.6%;
+        padding: 2.9%;
+        border-radius: 5px;
+        width: 15.8%;
+    }
+}
+
+@media (min-width:1778px){
+    .btn {
+        margin-top: -0.6%;
+        padding: 2.1999%;
+        border-radius: 5px;
+        width: 9.8%;
+    }
+}

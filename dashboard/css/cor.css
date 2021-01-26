@@ -1,0 +1,31 @@
+.back{
+    background: rgb(185, 174, 174);
+}
+
+.ls-box.ls-box-gray, .ls-board-box .ls-box, .ls-board-box .ls-box-filter, .ls-board-box .ls-alert-box, .ls-box-filter, .ls-box-gray.ls-alert-box {
+    background: rgb(233, 230, 230);
+}
+
+[class*="ls-btn-primary-test"] {
+    background: #003462;
+    border-color: #002d56;
+    color: white;
+    margin-top: -4%;
+}
+
+.btn2{
+    margin-top: -19%;
+}
+
+[class*="ls-btn-success"] {
+    background-color: rgba(49, 173, 24, 0.74) !important;
+    color: black !important;
+}
+
+.submarg{
+    margin-top: 0.2% !important;
+}
+
+.form-group-created{
+    padding: 6px;
+}
