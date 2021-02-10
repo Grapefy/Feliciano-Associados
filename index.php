@@ -11,7 +11,7 @@
   <title>Login</title>
   <meta name="description" content="" />
   <meta name="keywords" content="" />
-  <link href="http://opensource.locaweb.com.br/locawebstyle/assets/stylesheets/locastyle.css" rel="stylesheet" type="text/css" />
+  <link href="https://opensource.locaweb.com.br/locawebstyle/assets/stylesheets/locastyle.css" rel="stylesheet" type="text/css" />
   <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
 
       <script type="text/javascript">
@@ -117,7 +117,7 @@ var element = document.getElementById('element');
  </form>  </div>
 </div>
 
-<script src="http://opensource.locaweb.com.br/locawebstyle/assets/javascripts/locastyle.js" type="text/javascript"></script>
+<script src="https://opensource.locaweb.com.br/locawebstyle/assets/javascripts/locastyle.js" type="text/javascript"></script>
 
 
 </body>
