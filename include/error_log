@@ -37,3 +37,4 @@
 [11-Jul-2020 10:38:10 America/Fortaleza] PHP Warning:  mkdir(): File exists in /home2/felic009/public_html/dashboard/include/Crelatorio_func.php on line 66
 [11-Jul-2020 10:38:10 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/felic009/public_html/dashboard/include/Crelatorio_func.php:66) in /home2/felic009/public_html/dashboard/include/Crelatorio_func.php on line 72
 [11-Jul-2020 10:38:10 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/felic009/public_html/dashboard/include/Crelatorio_func.php:66) in /home2/felic009/public_html/dashboard/include/Crelatorio_func.php on line 97
+[09-Feb-2021 22:30:54 America/Fortaleza] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/felic009/public_html/dashboard/include/conn.php on line 9
